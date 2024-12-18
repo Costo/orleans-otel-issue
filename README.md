@@ -27,3 +27,5 @@ Here's what's happening:
 
 ## What's wrong?
 If you look closely at the traces in the Aspire Dashboard, you should see some traces that contain dozens to hundreds of spans. Most of these should be part of other traces.
+
+![image](https://github.com/user-attachments/assets/5aaf5002-e130-4e15-8975-47c64825dc6f)
