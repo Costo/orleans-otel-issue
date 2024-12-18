@@ -1,5 +1,6 @@
 # Reproduction of Open Telemetry issue with Orleans
 
+This is a reproduction of this Orleans issue: https://github.com/dotnet/orleans/issues/9270  
 This project is based on the Simple Streaming sample. It has been updated to Orleans 9 and .NET 9.
 
 ## Getting started
